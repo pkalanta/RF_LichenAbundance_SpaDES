@@ -1,0 +1,6 @@
+[submodule "m/LichenAbundanceRF"]
+	path = m/LichenAbundanceRF
+	url = https://github.com/pkalanta/LichenAbundanceRF
+[submodule "m/RF_LichenAbundance_DataPrep"]
+	path = m/RF_LichenAbundance_DataPrep
+	url = https://github.com/pkalanta/RF_LichenAbundance_DataPrep

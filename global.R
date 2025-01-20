@@ -10,9 +10,9 @@ if (!require("SpaDES.project")) {
 out <- SpaDES.project::setupProject(
   paths = list(modulePath = "m", projectPath = "RF_LichenAbundance_SpaDES"),
   modules = c(
-    #"pkalanta/LichenDataPreperationeModule@main",
-    "pkalanta/LichenAbundanceWithEliot@main",
-    "pkalanta/Lichen_dataPrep@main"
+    "pkalanta/RF_LichenAbundance_DataPrep@main",
+    "pkalanta/LichenAbundanceRF@master"
+    # "pkalanta/Lichen_dataPrep@main"
     #"LichenPresenceAbsenceBIOMOD2",  #"Caribou", 
     # "PredictiveEcology/Biomass_core@development", 
     # "PredictiveEcology/Biomass_borealDataPrep@development",
